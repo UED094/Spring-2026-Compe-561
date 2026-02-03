@@ -1,0 +1,1 @@
+print("Fancy module loaded")
