@@ -1,1 +1,0 @@
-print("Fancy module loaded")
